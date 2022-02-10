@@ -31,7 +31,7 @@
     "redux": "^3.7.2",
     "redux-thunk": "^2.2.0",
     "shortid": "^2.2.8",
-    "undefsafe": "^2.0.2",
+    "undefsafe": "^2.0.3",
     "uniqid": "^4.1.1"
   },
   "scripts": {
